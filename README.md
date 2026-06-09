@@ -1,6 +1,8 @@
 # Superstore-Sales-Performance-Analysis
 End-to-end Data Analytics project using Excel, PostgreSQL, Python, and Power BI to analyze 9,994 retail transactions and uncover actionable business insights.
 
+# Superstore Sales Performance Analysis
+
 ## Project Overview
 This project analyzes the Superstore retail dataset containing 9,994 transactions from 2014–2017. The objective was to identify sales trends, profitability drivers, customer performance, regional performance, and the impact of discounts on business profitability.
 The project follows a complete data analytics workflow:
@@ -28,7 +30,6 @@ This project aims to transform raw transaction data into actionable business ins
 | Python | Exploratory Data Analysis (EDA) |
 | Pandas | Data Manipulation |
 | Matplotlib | Data Visualization |
-| Seaborn | Statistical Visualization |
 | Power BI | Interactive Dashboard Development |
 | GitHub | Project Documentation & Version Control |
 
@@ -101,7 +102,7 @@ The analysis focused on answering the following questions:
 8. Which business areas require improvement?
 
 ## Exploratory Data Analysis (Python)
-The dataset was analyzed using Pandas, Matplotlib, and Seaborn to uncover patterns in sales, profitability, customer behavior, and regional performance.
+The dataset was analyzed using Pandas, Matplotlib,to uncover patterns in sales, profitability, customer behavior, and regional performance.
 
 ### Key Findings
 - Sales showed a consistent upward trend from 2014 to 2017.
