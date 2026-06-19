@@ -176,3 +176,13 @@ Based on the analysis, the following recommendations were identified:
 4. Expand successful sales strategies used in the West region.
 5. Develop retention programs for high-profit customers.
 6. Monitor loss-making products and adjust inventory planning accordingly.
+
+✍️ Author
+
+Devraj Singh
+
+Aspiring Data Analyst
+
+GitHub: 
+
+LinkedIn: 
