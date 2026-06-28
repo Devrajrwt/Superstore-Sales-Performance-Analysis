@@ -178,11 +178,8 @@ Based on the analysis, the following recommendations were identified:
 6. Monitor loss-making products and adjust inventory planning accordingly.
 
 ✍️ Author
-
-Devraj Singh
-
-Aspiring Data Analyst
-
-GitHub: 
-
-LinkedIn: 
+DEVRAJ SINGH RAWAT
+Business Data Analyst| SQL | Python | Power BI | Excel | PostgreSQL
+📧 devrajsinghrwt1@gmail.com | 📱 +91-8904446522 | 📍 Noida, India
+🔗 LinkedIn: https://www.linkedin.com/in/devraj-singh-rawat-b1bb5b105
+💻 GitHub: https://github.com/Devrajrwt
